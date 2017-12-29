@@ -1,21 +1,21 @@
-# Lab 6 - *Name of App Here*
+# Lab 6 - *Photo Map*
 
-**Name of your app** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
+**Photo Map** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] Configure initial map view (+2pt)
-- [ ] User can take a photo (+1pt)
-- [ ] User can tag a location (+1pt)
-- [ ] User can drop a pin with image annotation (+2pt)
+- [X] Configure initial map view (+2pt)
+- [X] User can take a photo (+1pt)
+- [X] User can tag a location (+1pt)
+- [X] User can drop a pin with image annotation (+2pt)
 
 The following **additional** user stories are implemented:
 
-- [ ] Implement a Custom MKAnnotation (+1pt)
+- [X] Implement a Custom MKAnnotation (+1pt)
 - [ ] User can see Fullscreen Picture (+1pt)
 - [ ] Replace the Pin with an Image (+1pt)
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
@@ -35,11 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When I first downloaded the project, I didn't know I needed to update the pods. I re-downloaded the project 5 times until my friend told me that I need to run a pod update.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2017] [Marissa Bush]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
